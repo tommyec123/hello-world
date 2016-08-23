@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans
+
+Tommy Demos, I like coding or/and Software development in general.
